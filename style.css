@@ -1,0 +1,12 @@
+#h{
+    padding-left:35%;
+}
+.container{
+    border:0.1rem solid black;
+    margin:2rem;
+}
+.btn{
+    margin-left:70%;
+    border:0.1rem solid black;
+    box-shadow:0rem 0.2rem 0.2rem 0rem;
+}
